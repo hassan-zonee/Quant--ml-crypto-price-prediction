@@ -1,0 +1,10 @@
+numpy
+matplotlib
+tqdm
+polars
+torch
+altair
+vegafusion
+vl-convert-python
+jupyter
+notebook
